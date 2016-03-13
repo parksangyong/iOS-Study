@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("hello world")
         print("하하하")
         print("좋아요...")
+        print("정말 좋아요")
     }
 
     override func didReceiveMemoryWarning() {
